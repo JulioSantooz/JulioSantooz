@@ -1,7 +1,7 @@
 <h1 align="center">
   Oi, eu sou Julio Santos! 👋
+  <br/><br/>
 </h1>
-
 
 <div align="center">
   <a href="https://github.com/rafaballerini">
@@ -19,7 +19,7 @@
   <img align="center" alt="Julio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Julio-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Julio-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="right" alt="Julio-pic" height="150" src="https://avatars.githubusercontent.com/u/86477324?s=400&u=22aca36ad789d3985eac4657f9de74056b4f6888&v=4">
+  <br/>
 </div>
   
 ##
