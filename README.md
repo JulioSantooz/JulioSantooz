@@ -1,4 +1,6 @@
-### Oi, eu sou Julio Santos! 👋
+<h1 align="center">
+  Oi, eu sou Julio Santos! 👋
+</h1>
 
 <!--
 - 🔭 I’m currently working on ...
